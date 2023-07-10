@@ -1,2 +1,2 @@
 # Avaab eshop
-an online ecommerce application
+an online ecommerce application.
