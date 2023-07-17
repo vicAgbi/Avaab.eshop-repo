@@ -24,7 +24,7 @@ function App() {
           <Route path="/reset" element={<Reset/>}/>
         </Routes>
      <Footer/>
-     </BrowserRouter>
+     </BrowserRouter> 
     </>
   );
 }
